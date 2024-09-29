@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://posorumereju.netlify.app/sitemap.xml
